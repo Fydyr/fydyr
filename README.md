@@ -47,9 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fydyr&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=fydyr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/fydyr/fydyr/output/snake.svg" alt="Snake animation" />
-
-###
