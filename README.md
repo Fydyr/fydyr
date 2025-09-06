@@ -93,3 +93,5 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Fydyr/Fydyr/output/snake.svg" alt="Snake animation" />
